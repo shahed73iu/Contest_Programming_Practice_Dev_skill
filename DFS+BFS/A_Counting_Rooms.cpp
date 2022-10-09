@@ -3,6 +3,8 @@ using namespace std;
 
 ///https://cses.fi/problemset/result/4777921/
 
+///https://www.youtube.com/watch?v=QxY16bI37oc  >>---> Directional array Video Ref
+
 const int MAX = 1000;
 
 char gr_array[MAX+10][MAX+10];
